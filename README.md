@@ -1,10 +1,12 @@
 # seafile
-yum -y install wget  <br>
+适用于Centos7 <br>
+安装命令：<br>
+yum -y install wget <br>
 wget https://raw.githubusercontent.com/ben-august/seafile/master/install_seafile.sh  <br>
 chmod +x install_seafile.sh && ./install_seafile.sh  <br>
 其它说明<br>
 <br>
-安装目录和服务如下，如果您还需要配置更多的功能或扩展，请访问官方帮助文档：https://manual-cn.seafile.com/<br>
+如果您还需要配置更多的功能或扩展，请访问官方帮助文档：https://manual-cn.seafile.com/<br>
 
 <br>
 #安装目录<br>
